@@ -1,0 +1,82 @@
+{
+    "fr": [{
+            "Good morning": "Bonjour"
+        },
+        {
+            "Good afternoon": "Bon apres-midi"
+        },
+        {
+            "Good evening": "Bonsoir"
+        }
+    ],
+    "es": [{
+            "Good morning": "Buenos días"
+        },
+        {
+            "Good afternoon": "Buenas tardes"
+        },
+        {
+            "Good evening": "Buenas noches"
+        }
+    ],
+    "ru": [{
+            "Good morning": "доброе утро"
+        },
+        {
+            "Good afternoon": "добрый день"
+        },
+        {
+            "Good evening": "добрый вечер"
+        }
+    ],
+    "de": [{
+            "Good morning": "guten Morgen"
+        },
+        {
+            "Good afternoon": "guten Nachmittag"
+        },
+        {
+            "Good evening": "guten Abend"
+        }
+    ],
+    "ja": [{
+            "Good morning": "おはようございます"
+        },
+        {
+            "Good afternoon": "こんにちは"
+        },
+        {
+            "Good evening": "こんばんは"
+        }
+    ],
+    "zh": [{
+            "Good morning": "早上好"
+        },
+        {
+            "Good afternoon": "下午好"
+        },
+        {
+            "Good evening": "晚上好"
+        }
+    ],
+    "nl": [{
+            "Good morning": "Goedemorgen"
+        },
+        {
+            "Good afternoon": "Goedemiddag"
+        },
+        {
+            "Good evening": "Goedenavond"
+            }
+            ],
+            "uk": [{
+                    "Good morning": "Доброго ранку"
+                },
+                {
+                    "Good afternoon": "Доброго дня"
+                },
+                {
+                    "Good evening": "Доброго вечора"
+        }
+    ]
+}
